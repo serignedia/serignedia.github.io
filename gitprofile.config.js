@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'serignedia', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,75 +11,75 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: 'serigne-saliou-dia',
+    twitter: '',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'serignedia',
+    dev: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.com',
+    website: 'https://serignedia.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'pro.serigne.dia@outlook.fr',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Linux',
+    'Centreon',
+    'Zabbix',
+    'Splunk',
+    'E.O.N',
+    'Nagios',
     'MySQL',
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Ansible',
+    'PHP',
+    'Bash',
+    'Security',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Enedis',
+      position: 'Infrastructure Consultant',
+      from: 'October 2021',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.enedis.fr/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Somone',
+      position: 'Monitoring Consultant',
+      from: 'August 2020',
+      to: 'October 2021',
+      companyLink: 'https://somone.fr/',
     },
   ],
-  /* certifications: [
+   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Zabbix Certified Specialist 5.0',
+      body: '',
+      year: 'January 2021',
+      link: 'https://www.zabbix.com/certificate/?firstname=Serigne+Saliou&lastname=DIA&certificate=CS-2101-058#.YBxYTI_J6KI.linkedin'
     },
-  ], */
+  ], 
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'ESIEE PARIS',
+      degree: 'Network and Security Enginer',
+      from: '2017',
+      to: '2020',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Jan Monnet University',
+      degree: 'Network and Telecommunication DUT',
+      from: '2014',
+      to: '2016',
     },
   ],
 
@@ -103,7 +103,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'serignedia', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -176,7 +176,7 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://serignedia.github.io"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
