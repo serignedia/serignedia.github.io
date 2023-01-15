@@ -26,7 +26,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://github.com/serignedia/serignedia.github.io/blob/main/CV_SSDIA_INDEP.pdf` button.
+      'https://github.com/serignedia/serignedia.github.io/blob/main/CV_SSDIA_INDEP.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Linux',
