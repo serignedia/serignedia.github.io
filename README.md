@@ -84,7 +84,7 @@ Or try it **[online](https://stackblitz.com/edit/gitprofile)**.
 ## 🎉 Thank you for the 500 ★
 
 <p>
-  <a href="https://arifszn.github.io/gitprofile">
+  <a href="https://serignedia.github.io/gitprofile">
     <img src="https://user-images.githubusercontent.com/45073703/202119579-eae272bd-ed39-434d-9361-df25308e0691.gif" alt="Thank You" width="50%"/>
   </a>
 </p>
