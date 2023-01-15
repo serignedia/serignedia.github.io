@@ -67,6 +67,12 @@ const config = {
       year: 'January 2021',
       link: 'https://www.zabbix.com/certificate/?firstname=Serigne+Saliou&lastname=DIA&certificate=CS-2101-058#.YBxYTI_J6KI.linkedin'
     },
+    {
+      name: 'Juniper Networks Certified Associate - Junos (JNCIA-Junos)',
+      body: '',
+      year: 'Mars 2020',
+      link: 'https://www.youracclaim.com/badges/c451dbc3-ae15-4e6b-8d2f-cb51e49f82f6/linked_in_profile'
+    },
   ], 
   education: [
     {
@@ -76,7 +82,7 @@ const config = {
       to: '2020',
     },
     {
-      institution: 'Jan Monnet University',
+      institution: 'Jean Monnet University',
       degree: 'Network and Telecommunication DUT',
       from: '2014',
       to: '2016',
