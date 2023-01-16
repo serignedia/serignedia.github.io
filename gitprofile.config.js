@@ -77,7 +77,7 @@ const config = {
   education: [
     {
       institution: 'ESIEE PARIS',
-      degree: 'Network and Security Enginer',
+      degree: 'Network and Security Engineer',
       from: '2017',
       to: '2020',
     },
