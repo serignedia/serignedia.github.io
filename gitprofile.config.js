@@ -46,11 +46,11 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Enedis',
+      company: 'Infogene',
       position: 'Infrastructure Consultant',
       from: 'October 2021',
       to: 'Present',
-      companyLink: 'https://www.enedis.fr/',
+      companyLink: 'https://www.infogene.fr/',
     },
     {
       company: 'Somone',
