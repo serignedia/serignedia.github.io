@@ -188,21 +188,4 @@ const config = {
     >GitProfile</a> and ❤️`,
 };
 
-import GitProfile from '@arifszn/gitprofile';
-import '@arifszn/gitprofile/dist/style.css';
-
-function App() {
-  return (
-    <GitProfile
-      config={{
-        github: {
-          username: 'arifszn',
-        },
-      }}
-    />
-  );
-}
-
-export default App;
-
-//export default config;
+export default config;
