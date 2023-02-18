@@ -26,7 +26,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://github.com/serignedia/serignedia.github.io/blob/a344021a3741c0b72848894935b36bf3988cc4d9/resumee/CV_SSDIA_INDEP.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://path_to_my_cv/file.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Linux',
@@ -42,11 +42,12 @@ const config = {
     'Ansible',
     'PHP',
     'Bash',
+    'Snort',
     'Security',
   ],
   experiences: [
     {
-      company: 'Infogene',
+      company: 'Energy sector client',
       position: 'Infrastructure Consultant',
       from: 'October 2021',
       to: 'Present',
