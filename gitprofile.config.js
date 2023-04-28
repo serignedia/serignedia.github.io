@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'www.linkedin.com/in/serigne-saliou-dia',
+    linkedin: 'serigne-saliou-dia',
     twitter: '',
     facebook: '',
     instagram: '',
