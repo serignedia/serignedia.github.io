@@ -11,7 +11,6 @@ const config = {
     },
   },
   social: {
-    linkedin: 'serigne-saliou-dia',
     twitter: '',
     facebook: '',
     instagram: '',
@@ -19,6 +18,7 @@ const config = {
     behance: '',
     medium: '',
     dev: '',
+    linkedin: 'serigne-saliou-dia',
     stackoverflow: '', // format: userid/username
     website: 'https://serignedia.github.io',
     phone: '',
